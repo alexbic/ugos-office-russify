@@ -6,7 +6,7 @@
 
 ## Описание
 
-Скрипт для перевода приложения **Online Office** на русский язык на UGREEN NAS под управлением UGOS Pro.
+**Online Office** на UGREEN NAS — это обёртка над **OnlyOffice**. Русский язык в OnlyOffice встроен изначально, но по умолчанию недоступен на устройствах, где русский не предусмотрен как язык интерфейса. Скрипт активирует уже существующую локализацию.
 
 После установки:
 - Интерфейс обёртки Online Office — на русском
@@ -62,7 +62,7 @@ rm -rf "$HOME/Library/Application Support/com.ugreen.desktop/Cache/Cache_Data/"
 
 ## Description (English)
 
-A script to add Russian language support to the **Online Office** app on UGREEN NAS running UGOS Pro.
+**Online Office** on UGREEN NAS is a wrapper around **OnlyOffice**. Russian localization is built into OnlyOffice but disabled by default on devices where Russian is not a system language. This script enables the existing localization.
 
 After installation:
 - Online Office wrapper UI — in Russian
